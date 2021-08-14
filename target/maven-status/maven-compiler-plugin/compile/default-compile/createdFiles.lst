@@ -1,0 +1,5 @@
+hu\porkolab\chat\model\Human.class
+hu\porkolab\chat\servlet\StartServlet.class
+hu\porkolab\chat\servlet\DisplayServlet.class
+hu\porkolab\chat\model\Message.class
+hu\porkolab\chat\servlet\NewHumanServlet.class
